@@ -2,7 +2,7 @@ package opennebula
 
 import (
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"net"
 	"net/http"
 	"strconv"
